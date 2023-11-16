@@ -1,0 +1,14 @@
+1 prendo il telecomando
+2 accendo la tv
+3 apro netflix
+4a sono stanco
+    5 guardo un film
+    6a mi hanno consigliato un film
+        7 guardo quel film
+    6b guardo altro 
+4b non sono stanco
+    8 guardo una serie 
+    9 scelgo la serie
+    10a la  serie ci piace
+        11 lo finiamo
+    10B la serie non ci piace
